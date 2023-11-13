@@ -663,11 +663,15 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![Alt text](web ex 7 1.png)
-![Alt text](web ex 7 2.png)
-![Alt text](web ex 7 3.png)
-![Alt text](web ex 7 4.png)
-![Alt text](web ex 7 5.png)
+![web ex 7 1](https://github.com/Mugilan212/softweb/assets/144508901/9efa4cf9-034d-4544-a110-d8e7e425dd2e)
+
+![web ex 7 2](https://github.com/Mugilan212/softweb/assets/144508901/b6fd5698-99c1-4224-b2b4-bfac2fd7fd2d)
+
+![web ex 7 3](https://github.com/Mugilan212/softweb/assets/144508901/e871e920-8ec5-4b8e-b97c-4ce1c9a89c3b)
+
+![web ex 7 4](https://github.com/Mugilan212/softweb/assets/144508901/ee35d46d-9ca6-496b-bb2a-0c4eeb33f49e)
+
+![web ex 7 5](https://github.com/Mugilan212/softweb/assets/144508901/8eaa11f0-7735-4680-a468-933415d5389a)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
