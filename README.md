@@ -29,6 +29,7 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 ## index.html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -174,9 +175,9 @@ Publish the website in the given URL.
     </footer>
 </body>
 </html>
-
+```
 ## product.html
-
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -356,9 +357,9 @@ Publish the website in the given URL.
     </footer>
 </body>
 </html>
-
+```
 ## people.html
-
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -514,9 +515,9 @@ Publish the website in the given URL.
     </footer>
 </body>
 </html>
-
+```
 ## contact.html
-
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -658,9 +659,15 @@ Publish the website in the given URL.
         </footer>
 </body>
 </html>
+```
 
 ## OUTPUT:
 
+![Alt text](web ex 7 1.png)
+![Alt text](web ex 7 2.png)
+![Alt text](web ex 7 3.png)
+![Alt text](web ex 7 4.png)
+![Alt text](web ex 7 5.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
