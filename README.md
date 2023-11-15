@@ -1,5 +1,5 @@
 # Ex.07 Software Product Company Website
-## Date: 13/11/2023
+## Date: 15/11/2023
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
@@ -35,7 +35,7 @@ Publish the website in the given URL.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TAAZAA </title>
+    <title>iDIGITAL</title>
     <style>
         *{
             font-family: 'times new roman', 'times new roman', 'times new roman', 'times new roman', times new roman, times new roman;
@@ -47,7 +47,7 @@ Publish the website in the given URL.
         }
         header {
         overflow: hidden;
-        background-color: #4c54c4;
+        background-color: #080b3f;
         padding: 20px 10px;
         }
 
@@ -68,13 +68,13 @@ Publish the website in the given URL.
         }
 
         header a:hover {
-        background-color: #ddd;
-        color: black;
+        background-color: rgb(163, 133, 133);
+        color: rgb(194, 171, 171);
         }
 
         header a.active {
-        background-color: dodgerblue;
-        color: white;
+        background-color: rgb(25, 52, 141);
+        color: rgb(219, 199, 199);
         }
 
         .header-right {
@@ -97,7 +97,7 @@ Publish the website in the given URL.
         }
 
         #content{
-            background-color:rgba(112, 162, 215, 0.805);
+            background-color:rgba(39, 58, 110, 0.959);
             height: 500px;        
             overflow: hidden;
             line-height: 30px;
@@ -143,9 +143,9 @@ Publish the website in the given URL.
 <body>
     <header>
         <div class="logo">
-            <a><img src="LOGO.jfif" alt="logo" border="2"></a>
+            <a><img src="logo.jpg" alt="logo" border="1"></a>
         </div>
-        <a class ="cname"><h1>TAAZAA</h1></a>
+        <a class ="cname"><h1>iDIGITAL</h1></a>
         <div class="header-right">
             <a class="active" href="index.html">Home</a>
             <a href="product.html" target="_blank">Product</a>
@@ -155,23 +155,24 @@ Publish the website in the given URL.
     </header>
 
     <section id="content">
-        <h1>A Different Kind Of Custom Software Development Company</h1>
-        <h2>Get the software you need to transform your business. Taazaa delivers the power of “wow!”
-            
-            Let's Get Started</h2>
+        <h1>Welcome to iDigital, where innovation is our language and software development is our expertise. We craft solutions that redefine the digital landscape, ensuring your technology evolves with excellence.</h1>
+        
+        <h2>
+            "iDigital: Pioneering Tomorrow's Tech, Today!"
+        </h2>
         <div class="image1">
-            <img src="taazaa 1.jpg" alt="image1">
+            <img src="soft1.jpg" alt="image1">
         </div>
         <div class="image2">
-            <img src="taazaa 2.png" alt="image2">
+            <img src="soft2.jpg" alt="image2">
         </div>
         <div class="image3">
-            <img src="taazaa 3.png" alt="image3">
+            <img src="soft3.jpg" alt="image3">
         </div>
     </section>
 
     <footer>
-        <p>&copy; 2023 TAAZAA. All rights reserved.</p>
+        <p>&copy; 2023 iDIGITAL.All rights reserved!.</p>
     </footer>
 </body>
 </html>
@@ -183,7 +184,7 @@ Publish the website in the given URL.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TAAZAA</title>
+    <title>iDIGITAL</title>
     <style>
         *{
             font-family: 'times new roman', 'times new roman', 'times new roman', 'times new roman', times new roman, times new roman;
@@ -195,7 +196,7 @@ Publish the website in the given URL.
         }
         header {
         overflow: hidden;
-        background-color: #4c54c4;
+        background-color: #080b3f;
         padding: 20px 10px;
         }
 
@@ -245,7 +246,7 @@ Publish the website in the given URL.
         }
 
         #content{
-            background-color: rgba(112, 162, 215, 0.805);
+            background-color:rgb(25, 52, 141);
             height: 1500px;        
             overflow: hidden;
             line-height: 30px;
@@ -307,7 +308,7 @@ Publish the website in the given URL.
             text-align: center;
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
             font-size: 40px;
-            color: #4c54c4  ;
+            color: #8a8aa0  ;
         }
 
         footer{
@@ -319,8 +320,8 @@ Publish the website in the given URL.
 </head>
 <body>
     <header>
-        <a class="logo"><img src="LOGO.jfif" alt="logo" border="2"></a>
-        <a class ="cname"><h1>TAAZAA</h1></a>
+        <a class="logo"><img src="logo.jpg" alt="logo" border="2"></a>
+        <a class ="cname"><h1>iDIGITAL</h1></a>
         <div class="header-right">
             <a href="index.html" target="_blank">Home</a>
             <a class="active" href="product.html">Product</a>
@@ -331,32 +332,33 @@ Publish the website in the given URL.
 
     <section id="content">
         <div class="quote">
-            <h3>Custom Software Development and Software Product Engineering</h3>
+            <h3>iDIGITAL avalailability over developing Softwares </h3>
         </div>
         <div class="prod1">
-            <img src="devops.png" alt="prod3">
+            <img src="devops1.jpeg" alt="prod3">
         </div>
         <div class="prod2">
-            <img src="web development.png" alt="prod2">
+            <img src="mads.jpg" alt="prod2">
         </div>
         <div class="prod3">
-            <img src="ui-ux-design-icon.png" alt="prod1">
+            <img src="uxi.jpg" alt="prod1">
         </div>
         <div class="prod4">
             <img src="New Product Development.svg" alt="prod4">
         </div>
         <div class="prod5">
-            <img src="esd.png" alt="prod5">
+            <img src="fulllogo.jpg" alt="prod5">
         </div>
         <div class="prod6">
-            <img src="mad.jpg" alt="prod6">
+            <img src="webdev.jpg" alt="prod6">
         </div>
     </section>
     <footer>
-        <p>&copy; 2023 TAAZAA. All rights reserved.</p>
+        <p>&copy; 2023 iDIGITAL. All rights reserved!.</p>
     </footer>
 </body>
 </html>
+
 ```
 ## people.html
 ```html
@@ -365,7 +367,7 @@ Publish the website in the given URL.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TAAZAA</title>
+    <title>iDIGITAL</title>
     <style>
         *{
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -377,7 +379,7 @@ Publish the website in the given URL.
         }
         header {
         overflow: hidden;
-        background-color: #4c54c4;
+        background-color: #080b3f;
         padding: 20px 10px;
         }
 
@@ -427,7 +429,7 @@ Publish the website in the given URL.
         }
 
         #content{
-            background-color:rgba(112, 162, 215, 0.805);
+            background-color: rgba(25, 52, 141, 0.815);
             overflow: hidden;
             line-height:normal;
         }
@@ -449,19 +451,19 @@ Publish the website in the given URL.
         .person p.name {
             font-weight: bold;
             margin-top: 10px;
-            color:white;
+            color:rgb(89, 180, 3);
         }
 
         .person p.desig {
             font-weight: bold;
             margin-top: 10px;
-            color:white;
+            color:rgb(184, 172, 172);
         }
 
         .title{
             text-align: center;
             font-size: 30px;
-            color:white  ;
+            color:rgb(167, 190, 201)  ;
         }
         
         footer{
@@ -472,8 +474,8 @@ Publish the website in the given URL.
 </head>
 <body>
     <header>
-        <a class="logo"><img src="LOGO.jfif" alt="logo" border="2"></a>
-        <a class ="cname"><h1>TAAZAA</h1></a>
+        <a class="logo"><img src="logo.jpg" alt="logo" border="2"></a>
+        <a class ="cname"><h1>iDIGITAL</h1></a>
         <div class="header-right">
             <a href="index.html" target="_blank">Home</a>
             <a href="product.html" target="_blank">Product</a>
@@ -484,37 +486,38 @@ Publish the website in the given URL.
 
     <section id="content">
         <div class="title">
-            <h3>MEET THE BOARD MEMBERS</h3>
+            <h3>GEMS OF iDIGITAL</h3>
         </div>
         <div class="image">
             <div class="person">
-                <img src="myphoto.jpeg" alt="Mugilan">
-                <p class="name">MUGILAN </p>
+                <img src="person1.jpg" alt="Mugilan">
+                <p class="name">Emma Johnson</p>
                 <p class="desig">CEO</p>
             </div>
             <div class="person">
-                <img src="pinto.jpeg" alt="Pinto ponnachan">
-                <p class="name">PINTO PONNACHAN</p>
+                <img src="person2.jpg" alt="Pinto ponnachan">
+                <p class="name">Liam Brown</p>
                 <p class="desig">GENERAL MANAGER</p>
             </div>
             <div class="person">
-                <img src="prakash.jpeg" alt="Prakash">
-                <p class="name">PRAKASH</p>
+                <img src="person3.jpg" alt="Prakash">
+                <p class="name">Lucas Clark</p>
                 <p class="desig">HR MANAGER</p>
             </div>
             <div class="person">
-                <img src="ritik.jpeg" alt="Ritik samuel">
-                <p class="name">RITIK SAMUEL</p>
+                <img src="person4.jpg" alt="Ritik samuel">
+                <p class="name">Olivia Smith</p>
                 <p class="desig">MARKETING HEAD</p>
             </div>
         </div>
     </section>
 
     <footer>
-        <p>&copy; 2023 TAAZAA. All rights reserved.</p>
+        <p>&copy; 2023 iDIGITAL. All rights reserved.!</p>
     </footer>
 </body>
 </html>
+
 ```
 ## contact.html
 ```html
@@ -523,7 +526,7 @@ Publish the website in the given URL.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TAAZAA</title>
+    <title>iDIGITAL</title>
     <style>
         *{
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -535,7 +538,7 @@ Publish the website in the given URL.
         }
         header {
         overflow: hidden;
-        background-color: #4c54c4;
+        background-color:#080b3f;
         padding: 20px 10px;
         }
 
@@ -557,7 +560,7 @@ Publish the website in the given URL.
 
         header a:hover {
         background-color: #ddd;
-        color: black;
+        color: rgb(231, 216, 216);
         }
 
         header a.active {
@@ -585,7 +588,7 @@ Publish the website in the given URL.
         }
 
         #content{
-            background-color: rgba(112, 162, 215, 0.805);
+            background-color: rgb(25, 52, 141);
             overflow: hidden;
             line-height:normal;
         }
@@ -611,12 +614,13 @@ Publish the website in the given URL.
             flex: 1;
             padding: 50px;
             font-size: 25px;
+            color:rgb(181, 189, 174);
         }
 
         .title{
             text-align: center;
             font-size: 30px;
-            color:white;
+            color:rgb(94, 163, 38);
         }
 
         footer{
@@ -628,8 +632,8 @@ Publish the website in the given URL.
 </head>
 <body>
     <header>
-        <a class="logo"><img src="LOGO.jfif" alt="logo" border="2"></a>
-        <a class ="cname"><h1>TAAZAA</h1></a>
+        <a class="logo"><img src="logo.jpg" alt="logo" border="2"></a>
+        <a class ="cname"><h1>iDIGITAL</h1></a>
         <div class="header-right">
             <a href="index.html" target="_blank">Home</a>
             <a href="product.html" target="_blank">Product</a>
@@ -640,38 +644,35 @@ Publish the website in the given URL.
 
     <section id="content">
         <div class="title">
-            <h3>CONTACT US</h3>
+            <h3>Contact Link Through </h3>
         </div>
         <div class="contact-container">
             <div class="contact-image">
-                <img src="contact.jpg">
+                <img src="contact-us.jpg " >
             </div>
             <div class="contact-details">
-                <p><strong>Email:</strong> info@taazaa.com</p>
-                <p><strong>Phone:</strong> +1 (888) 800-0016</p>
-                <p><strong>Address:</strong> 1780 Stoney Hill Dr., Suite A, Hudson, OH 44236</p>
+                <p><strong>Email:</strong> info@idigital.com</p>
+                <p><strong>Phone:</strong> +1 (444) 784501256</p>
+                <p><strong>Address:</strong> 145588 Marina Hill road,Block AG, Texas city, Texas 6012</p>
             </div>
         </div>
     </section>
 
     <footer>
-        <p>&copy; 2023 TAAZAA. All rights reserved.</p>
+        <p>&copy; 2023 iDIGITAL. All rights reserved!.</p>
         </footer>
 </body>
 </html>
+
 ```
 
 ## OUTPUT:
 
-![web ex 7 1](https://github.com/Mugilan212/softweb/assets/144508901/9efa4cf9-034d-4544-a110-d8e7e425dd2e)
-
-![web ex 7 2](https://github.com/Mugilan212/softweb/assets/144508901/b6fd5698-99c1-4224-b2b4-bfac2fd7fd2d)
-
-![web ex 7 3](https://github.com/Mugilan212/softweb/assets/144508901/e871e920-8ec5-4b8e-b97c-4ce1c9a89c3b)
-
-![web ex 7 4](https://github.com/Mugilan212/softweb/assets/144508901/ee35d46d-9ca6-496b-bb2a-0c4eeb33f49e)
-
-![web ex 7 5](https://github.com/Mugilan212/softweb/assets/144508901/8eaa11f0-7735-4680-a468-933415d5389a)
+![image](https://github.com/rahulramakrishnann/Exp-7-softweb--web/assets/143045415/5067e566-1ed9-433d-85fb-3897dfd3fc24)
+![image](https://github.com/rahulramakrishnann/Exp-7-softweb--web/assets/143045415/f8216f03-497a-45fc-89a9-6513c71841e6)
+![image](https://github.com/rahulramakrishnann/Exp-7-softweb--web/assets/143045415/3adf19de-5ec1-40de-bf42-920bfe49ab92)
+![image](https://github.com/rahulramakrishnann/Exp-7-softweb--web/assets/143045415/56c29478-33bd-4f27-b58c-649494c32ff0)
+![image](https://github.com/rahulramakrishnann/Exp-7-softweb--web/assets/143045415/a9f65067-375a-48a2-93cb-2c9175cbcf43)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
