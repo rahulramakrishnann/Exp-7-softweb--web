@@ -1,5 +1,6 @@
 # Ex.07 Software Product Company Website
-## Date: 15/11/2023
+
+## Date: 31/11/2023
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
